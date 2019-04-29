@@ -1,6 +1,6 @@
-# Hello Pluralsight
+# Gitless Hello Pluralsight
 
-
+Private Repository used for testing Gitless Hello Pluralsight Project
 
 ## Short Description
 
